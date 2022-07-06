@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppBasicEssencialsMenu</string>
+    <string name="menuMainOption">Opções</string>
+    <string name="menuMainOptionSave">Salvar</string>
+    <string name="menuMainOptionEdit">Editar</string>
+    <string name="menuMainOptionSettings">Configurações</string>
+</resources>
